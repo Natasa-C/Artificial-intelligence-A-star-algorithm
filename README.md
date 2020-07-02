@@ -34,7 +34,7 @@ The first matrix represents the actual map with the colors of the plots.
 The second matrix is the one that shows what objects are found in the respective plots. Also in the second matrix is marked the starting place with a character * and the place where the stone is found with a @. You don't have boots in the starting plot and in the one with the stone. If a plot contains nothing, in the second matrix it will have a 0 assigned to its corresponding position.
 
 
-| <img src="https://user-images.githubusercontent.com/57111995/86340140-26f82b00-bc5d-11ea-9683-922490bce4de.png" data-canonical-src="https://user-images.githubusercontent.com/57111995/86340140-26f82b00-bc5d-11ea-9683-922490bce4de.png" width="300" height="170" />  | For this example of the input file, it is considered that the witch starts from the coordinates 0.3 on a plot of color r. The stone is at coordinates 2.2 on a plot of color a. The plot from the coordinates 0.0 is color v and contains nothing. The plot at coordinates 0.2 is of color r and contains boots of color a. |
+| <img src="https://user-images.githubusercontent.com/57111995/86340140-26f82b00-bc5d-11ea-9683-922490bce4de.png" data-canonical-src="https://user-images.githubusercontent.com/57111995/86340140-26f82b00-bc5d-11ea-9683-922490bce4de.png" width="350" height="200" />  | For this example of the input file, it is considered that the witch starts from the coordinates 0.3 on a plot of color r. The stone is at coordinates 2.2 on a plot of color a. The plot from the coordinates 0.0 is color v and contains nothing. The plot at coordinates 0.2 is of color r and contains boots of color a. |
 |-|-|
 
 ### Output file format
