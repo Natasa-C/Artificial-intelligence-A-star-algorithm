@@ -2,6 +2,7 @@
 ### Informed search techniques: A *
 The A * algorithm is used to find a minimum cost path from a start node to a target node in a graph with weighted edges / arcs (with costs).
 
+## The Wizard and the Enchanted Cave
 ### Defining the challenge
 A little wizard set out to find a magic stone. The magic stone is found in an equally magical cave. The cave is rectangular in shape divided into square plots, each of a certain color. 
 
