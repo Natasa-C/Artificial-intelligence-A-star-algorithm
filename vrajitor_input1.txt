@@ -1,0 +1,13 @@
+5 4
+
+g r v v
+a r r r
+a v a r
+v v a r
+g g a r
+
+0 0 0 *
+0 0 0 0
+0 v 0 0
+0 0 0 0
+0 0 @ 0
