@@ -21,4 +21,19 @@ At the entrance to the cave it is considered that a step has been taken, so the 
 
 The wizard can only move on the line and the column, not on the diagonal. Attention, the goal is not only to reach the stone but also to get out of the cave with it (return to the initial node).
 
+Although the program knows the map, it is considered that the wizard does not know what the terrain looks like until he discovers it alone, walking through the cave.
+
 As you can see, the little wizard is under heavy test and only you can help him find his way to the magic stone.
+
+### Input file format
+An input file consists of two matrices separated by a blank line along with their dimensions. The lines of a matrix are each on a new row. The elements on the line are separated by spaces (it can be considered that each element of the matrix is of a single character). 
+
+The first matrix represents the actual map with the colors of the plots. 
+
+The second matrix is the one that shows what objects are found in the respective plots. Also in the second matrix is marked the starting place with a character * and the place where the stone is found with a @. You don't have boots in the starting plot and in the one with the stone. If a plot contains nothing, in the second matrix it will have a 0 assigned to its corresponding position.
+
+| this is
+
+
+| ![ex](https://user-images.githubusercontent.com/57111995/86340140-26f82b00-bc5d-11ea-9683-922490bce4de.png){input example}  | For this example of the input file it is considered that it starts from the coordinates 0.3 on a plot of color r. The stone is at the coordinates 2.2 on a plot of color a. The plot from the coordinates 0.0 is color v and contains nothing. The plot at coordinates 0.2 is of color r and contains boots of color a. |
+|-|-|
